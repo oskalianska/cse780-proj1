@@ -85,3 +85,7 @@ If a couple has three kids and a wife in her early middle age, there is a 100% c
 As a result, it can be concluded that young people do not use contraceptives, but at the same time, when they become parents, they start using them for a short period and can be the right target audience for ads. Quite surprising was that most younger middle-aged women are the most likely buyers for such products. 
 
 Also, education level did not correspond with the frequency of contraception using. But standard-of-living is lightly corresponding with usage of contraceptives. This area can be explored in the future.
+
+References:
+1. https://www.datacamp.com/community/tutorials/market-basket-analysis-r
+2. https://towardsdatascience.com/making-recommendations-using-association-rules-r-programming-1fd891dc8d2e
