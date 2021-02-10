@@ -1,3 +1,10 @@
+# Association rule analysis
+
+1. [Description of data](#1-description-of-data)
+2. [Description of the problem](#2-description-of-the-problem)
+3. [Description of the techniques used](#3-description-of-the-techniques-used)
+4. [Descriptions of results](#4-descriptions-of-results)
+
 ## 1. Description of data
 
 In this assignment a dataset from the UCI Machine Learning Repository was used.  The dataset is called Contraceptive Method Choice Data Set. 
